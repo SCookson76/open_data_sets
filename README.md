@@ -1,3 +1,8 @@
+##### The following are drop-down guides for open data resources, to assist you during your data science journey for creating projects and accessing open source data recommendations.  :thumbsup:
+
+<details>
+  <summary><strong>Open Data Sets :bar_chart:</strong></summary>
+
 1. [Data is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
 2. [India Open Data Gov](https://data.gov.in/)
 3. [Canada Open Data Gov](http://open.canada.ca/en)
@@ -25,20 +30,24 @@
 25. [CIA Data](https://www.cia.gov/library/publications/the-world-factbook/)
 26. [HealthData](http://www.healthdata.gov/)
 27. [California Data](http://data.ca.gov/)
-
-**Other Data Resources:**
-
+</details>
+<br>
+<details>
+  <summary><strong>Data Portals :books:</strong></summary>
 1. Github [Code Search](http://jakubdziworski.github.io/tools/2016/08/26/github-code-advances-search-programmers-goldmine.html):
 2. [Public Data](http://kevinchai.net/dataset)
 3. [Open Source Sports](http://www.opensourcesports.com/)
-
-**APIs**
-
+</details>
+<br>
+<details>
+  <summary><strong>APIs :computer:</strong></summary>
 1. [Public APIs](https://github.com/toddmotto/public-apis)
 2. [Programmable Web](https://www.programmableweb.com/)
 3. APIs: [ ](https://www.zillow.com/howto/api/APIOverview.htm) [Zillow](https://www.zillow.com/howto/api/APIOverview.htm), [Wikipedia](https://www.mediawiki.org/wiki/API:Main_page), [Google Scholar](https://github.com/ckreibich/scholar.py), [Reddit](https://www.reddit.com/dev/api), [Twitter](https://www.programmableweb.com/api/twitter), [Alpha-Vantage](https://www.alphavantage.co/documentation/)
 4. [More APIs](https://www.reddit.com/r/webdev/comments/3wrswc/what_are_some_fun_apis_to_play_with/?st=j62tehhm&amp;sh=02579ee6)
-
-**More Data Sets:**
-
+</details>
+<br>
+<details>
+  <summary><strong>Where to Find Data :question:</strong></summary>
 1. [https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
+</details>
