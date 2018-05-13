@@ -30,6 +30,8 @@
 25. [CIA Data](https://www.cia.gov/library/publications/the-world-factbook/)
 26. [HealthData](http://www.healthdata.gov/)
 27. [California Data](http://data.ca.gov/)
+28. [Google Public Data](https://www.google.com/publicdata/directory )
+29. [Flowing Dat](http://flowingdata.com/category/statistics/data-sources/)
 </details>
 <br>
 <details>
