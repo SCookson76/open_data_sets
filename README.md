@@ -61,3 +61,16 @@
   
 1. [Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 </details>
+
+
+<br>
+<details>
+  <summary><strong>Interview Resources :pencil2:</strong></summary>
+  
+1. :book: [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
+) 
+2. :clipboard: [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+3. :scroll: [Interview Cake](https://www.interviewcake.com/)
+</details>
+<br>
+
