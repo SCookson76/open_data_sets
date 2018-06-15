@@ -31,7 +31,9 @@
 26. [HealthData](http://www.healthdata.gov/)
 27. [California Data](http://data.ca.gov/)
 28. [Google Public Data](https://www.google.com/publicdata/directory )
-29. [Flowing Dat](http://flowingdata.com/category/statistics/data-sources/)
+29. [Flowing Data](http://flowingdata.com/category/statistics/data-sources/)
+30. [More Data Sets](https://gengo.ai/articles/the-50-best-free-datasets-for-machine-learning/)
+31. [NLP Data sets](https://gengo.ai/articles/the-best-25-datasets-for-natural-language-processing/)
 </details>
 <br>
 <details>
